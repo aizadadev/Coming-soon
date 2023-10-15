@@ -1,0 +1,48 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+.logo {
+    color: white;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+.about {
+    color: white;
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+.power {
+    color: white;
+    position: absolute;
+    top: 475px;
+    left: 20px;
+}
+.seytech {
+    color: white;
+    position: absolute;
+    top: 475px;
+    right: 20px;
+}
+.soon {
+    color: white;
+    position: absolute;
+    top: 180px;
+    width: 100%;
+    text-align: center;
+}
+.days {
+    color: white;
+    position: absolute;
+    top: 250px;
+    width: 100%;
+    text-align: center;
+}
+hr {
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 360px;
+    width: 15%;
+}
